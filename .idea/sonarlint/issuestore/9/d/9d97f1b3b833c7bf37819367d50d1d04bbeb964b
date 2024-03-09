@@ -1,0 +1,94 @@
+
+”
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ß”ş“8ù˜ó”â1
+”
+java:S1120;"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÜŒˆ’8ù˜ó”â1
+™
+java:S1120@"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ÿ‰şÿÿÿÿ8ù˜ó”â1
+›
+java:S1120A"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(»†·ıÿÿÿÿ8ú˜ó”â1
+›
+java:S1120E"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(…Ù—×úÿÿÿÿ8ú˜ó”â1
+›
+java:S1120I"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(î‹ª—üÿÿÿÿ8ú˜ó”â1
+–
+java:S1120M"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(îª°â8ú˜ó”â1
+–
+java:S1120Q"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(»úæ–8ú˜ó”â1
+–
+java:S1120U"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(õÄ—¦8ú˜ó”â1
+›
+java:S1120Y"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(×¶«˜øÿÿÿÿ8ú˜ó”â1
+•
+java:S1120]"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÇèŸ8ú˜ó”â1
+™
+java:S1120e"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¡¦±íşÿÿÿÿ8ú˜ó”â1
+›
+java:S1120f"yMake this line start after 15 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ƒÑÀ·ùÿÿÿÿ8ú˜ó”â1
+s	java:S109E"RAssign this magic number 2 to a well-named constant, and use the constant instead.(…Ù—×úÿÿÿÿ8ú˜ó”â1
+s	java:S109I"RAssign this magic number 3 to a well-named constant, and use the constant instead.(î‹ª—üÿÿÿÿ8û˜ó”â1
+n	java:S109M"RAssign this magic number 4 to a well-named constant, and use the constant instead.(îª°â8û˜ó”â1
+n	java:S109Q"RAssign this magic number 5 to a well-named constant, and use the constant instead.(»úæ–8û˜ó”â1
+n	java:S109U"RAssign this magic number 6 to a well-named constant, and use the constant instead.(õÄ—¦8û˜ó”â1
+s	java:S109Y"RAssign this magic number 7 to a well-named constant, and use the constant instead.(×¶«˜øÿÿÿÿ8û˜ó”â1
+m	java:S109]"RAssign this magic number 8 to a well-named constant, and use the constant instead.(ÇèŸ8û˜ó”â1
+p	java:S109j"TAssign this magic number 600 to a well-named constant, and use the constant instead.(×Çƒõ8û˜ó”â1
+p	java:S109j"TAssign this magic number 250 to a well-named constant, and use the constant instead.(×Çƒõ8û˜ó”â1
+t	java:S109l"SAssign this magic number 25 to a well-named constant, and use the constant instead.(—ÈÇêùÿÿÿÿ8û˜ó”â1
+t	java:S109l"SAssign this magic number 25 to a well-named constant, and use the constant instead.(—ÈÇêùÿÿÿÿ8û˜ó”â1
+t	java:S109{"SAssign this magic number 15 to a well-named constant, and use the constant instead.(™•ëşÿÿÿÿ8û˜ó”â1
+f
+java:S5612e"DReduce this lambda expression number of lines from 26 to at most 10.(¡¦±íşÿÿÿÿ8ÿ˜ó”â1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¶›¿¸øÿÿÿÿ8™ó”â1
+^
+java:S11068"AMove this left curly brace to the beginning of next line of code.(‚–ˆ‡8™ó”â1
+c
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(Áƒúşûÿÿÿÿ8™ó”â1
+c
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(¼—³ùÿÿÿÿ8™ó”â1
+c
+java:S1106c"AMove this left curly brace to the beginning of next line of code.(·òşÿÿÿÿ8™ó”â1
+;
+java:S1451"&Add or update the header of this file.8‚™ó”â1
+g	java:S103o"KSplit this 134 characters long line (which is greater than 120 authorized).(˜Á¡¸8‚™ó”â1
+l	java:S103r"KSplit this 125 characters long line (which is greater than 120 authorized).(Şåü¦ûÿÿÿÿ8‚™ó”â1
+l	java:S103t"KSplit this 144 characters long line (which is greater than 120 authorized).(¤Ûê¾ıÿÿÿÿ8‚™ó”â1
+l	java:S103u"KSplit this 132 characters long line (which is greater than 120 authorized).(ıÁ‰°şÿÿÿÿ8‚™ó”â1
+g	java:S103w"KSplit this 129 characters long line (which is greater than 120 authorized).(äºû8‚™ó”â1
+½
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚–ˆ‡J$0b069f9d-79e4-497a-8145-45e6f99866cc
+R
+java:S2039-"5Explicitly declare the visibility for "table1Orders".(£êÿÃ8…™ó”â1
+R
+java:S2039."5Explicitly declare the visibility for "table2Orders".(´¯Ú8…™ó”â1
+W
+java:S2039/"5Explicitly declare the visibility for "table3Orders".(¾–ÚÄûÿÿÿÿ8…™ó”â1
+W
+java:S20390"5Explicitly declare the visibility for "table4Orders".(‚âìéûÿÿÿÿ8…™ó”â1
+R
+java:S20391"5Explicitly declare the visibility for "table5Orders".(×‹â8…™ó”â1
+R
+java:S20392"5Explicitly declare the visibility for "table6Orders".(¬–Â‚8…™ó”â1
+W
+java:S20393"5Explicitly declare the visibility for "table7Orders".(ÀºËúÿÿÿÿ8…™ó”â1
+W
+java:S20394"5Explicitly declare the visibility for "table8Orders".(éüúêÿÿÿÿÿ8…™ó”â1
+R
+java:S20396"0Explicitly declare the visibility for "service".(Ì·ÄÓÿÿÿÿÿ8…™ó”â1
+=
+java:S2211@"Specify a type for: 'event'(Ÿ‰şÿÿÿÿ8‰™ó”â1
+=
+java:S2211D"Specify a type for: 'event'(²Ëõ˜úÿÿÿÿ8‰™ó”â1
+8
+java:S2211H"Specify a type for: 'event'(´–ğ†8‰™ó”â1
+8
+java:S2211L"Specify a type for: 'event'(¯ÆÉû8‰™ó”â1
+=
+java:S2211P"Specify a type for: 'event'(Á¤÷ûÿÿÿÿ8Š™ó”â1
+8
+java:S2211T"Specify a type for: 'event'(¸ÍùÄ8Š™ó”â1
+8
+java:S2211X"Specify a type for: 'event'(÷£õ8Š™ó”â1
+=
+java:S2211\"Specify a type for: 'event'(§ı‘áüÿÿÿÿ8Š™ó”â1

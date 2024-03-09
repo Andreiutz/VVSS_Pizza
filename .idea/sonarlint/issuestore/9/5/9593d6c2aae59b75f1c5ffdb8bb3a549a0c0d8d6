@@ -1,0 +1,32 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(èöâáøÿÿÿÿ8˜ë—•â1J$dc384916-5c59-49b9-bdb4-441d3e5e90e5
+r
+java:S3740"/Provide the parametrized type for this generic.(×è¸–8Ù“»•â1J$219a1e07-7985-4986-b875-1b98d2187097
+r
+java:S3740"/Provide the parametrized type for this generic.(ñªò 8Ù“»•â1J$659d4bea-ca28-4153-8786-70b82872a2f9
+w
+java:S3740"/Provide the parametrized type for this generic.(ƒÀÒëüÿÿÿÿ8Ù“»•â1J$af12cf5e-5842-4fad-b012-0f36d3f70a93
+”
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÊØJ$c0520a87-a4af-4de0-b7c5-0ea6fbe73c5c
+p
+java:S1604z"(Make this anonymous inner class a lambda(ÎÃßÓüÿÿÿÿ8Ÿë—•â1J$a1497f79-201d-47e3-9c3e-966e585ee5be
+–
+java:S1104:"ZMake observableList a static final constant or non-public and provide accessors if needed.(Ù½©ÆJ$39d54d2f-7ce8-48f6-a4e0-c99285938666
+É
+java:S1186@"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È’Êøÿÿÿÿ8»ªÍ•â1J$8fcae33e-9fb9-4891-aadb-8aa136e39e36
+˜
+java:S1450<"WRemove the "menuData" field and declare it as a local variable in the relevant methods.(³£–øÿÿÿÿJ$767c12af-1cf9-4865-8661-8ef8be198f85
+x
+java:S26964"6Make the enclosing method "static" or remove this set.(¢Ôä8ÿÜÇ•â1J$e718ddba-1b61-40b1-a08a-a31646b59e20
+|	java:S125<"<This block of commented-out lines of code should be removed.(³£–øÿÿÿÿJ$c91f1911-0e61-4278-891c-13ec3c163bc0
+m
+java:S1602Z",Remove useless curly braces around statement(ÇË®ûùÿÿÿÿJ$f5f806ea-7967-40cc-99ce-4d47ae1a547d
+f	java:S106e"+Replace this use of System.out by a logger.(ú•€ËJ$bf66b776-6c81-4be1-976c-5077368c2f54
+f	java:S106f"+Replace this use of System.out by a logger.(ÑºŠ‰J$c8eac133-95c9-4bf3-b552-a086a7aa1a77
+f	java:S106g"+Replace this use of System.out by a logger.(¢ùùJ$4bd5a66c-930b-4999-8a97-26549c3753ae
+f	java:S106h"+Replace this use of System.out by a logger.(ú•€ËJ$ff974a77-521a-41a7-87d2-3ae9e8e505a3
+}
+java:S2209j"5Change this instance-reference to a static reference.(…î˜±ÿÿÿÿÿ8‹İÇ•â1J$463b5b4f-3a7a-450d-a92f-e7873e5790b9
+n
+java:S1602‡",Remove useless curly braces around statement(¸¯¥–úÿÿÿÿJ$8bf60b7e-dbf1-4556-b83f-378bd82d7ec9
