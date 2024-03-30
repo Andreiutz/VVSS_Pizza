@@ -35,3 +35,14 @@ l
 data/menu.txt,f\b\fbf20334545c2b78ecc0732ed388acc897ffe32a
 Z
 *src/main/java/pizzashop/gui/OrdersGUI.java,a\d\adc62037ddba64615375bfbd8793cbbef77329f4
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+B
+data/payments2.txt,c\e\ce37de445a82f7f63088f79d22df43883c1a279d
+f
+6src/test/java/pizzashop/blackbox/PizzaServiceTest.java,d\b\dbaa9eacb25036c858a90397a16e8bb103c0c4d4
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

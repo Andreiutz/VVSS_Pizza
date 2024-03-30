@@ -22,20 +22,41 @@ public class PizzaService {
 
     public List<Payment> getPayments(){return payRepo.getAll(); }
 
+    private boolean paymentIsValid(Payment payment) {
+        if (payment.getTableNumber() < 1 || payment.getTableNumber() > 9) {
+            return false;
+        }
+        if (payment.getType() == null) {
+            return false;
+        }
+        if (payment.getAmount() <= 0.0f || payment.getAmount() >= 2000.0f) {
+            return false;
+        }
+
+        return true;
+    }
+
     public void addPayment(int table, PaymentType type, double amount){
         Payment payment= new Payment(table, type, amount);
-        payRepo.add(payment);
+        if(paymentIsValid(payment)) {
+            payRepo.add(payment);
+        }
     }
 
     public double getTotalAmount(PaymentType type){
+        return getTotalAmount(getPayments(),type);
+    }
+
+    public double getTotalAmount(List<Payment> l, PaymentType type){
         double total=0.0f;
-        List<Payment> l=getPayments();
-        if ((l==null) ||(l.size()==0)) return total;
+        if (l==null)
+            return total;
+        if (l.size()==0)
+            return total;
         for (Payment p:l){
             if (p.getType().equals(type))
                 total+=p.getAmount();
         }
         return total;
     }
-
 }

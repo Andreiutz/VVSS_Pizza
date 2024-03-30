@@ -1,98 +1,10 @@
 
-™
-java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(±«¥ëÿÿÿÿÿ8ä—ó”â1
-™
-java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(©¤º˜ùÿÿÿÿ8å—ó”â1
-”
-java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÄàÕõ8å—ó”â1
-•
-java:S1120"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ãÈˆ¦8å—ó”â1
-•
-java:S1120"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(™á¨œ8å—ó”â1
-š
-java:S1120!"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ8å—ó”â1
-š
-java:S1120#"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ8å—ó”â1
-”
-java:S1120("wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(úû¡Ñ8å—ó”â1
-”
-java:S11203"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¿Œâª8å—ó”â1
-™
-java:S11208"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(åŞ¨ùÿÿÿÿ8å—ó”â1
-”
-java:S1120="wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÄàÕõ8å—ó”â1
-•
-java:S1120A"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ù»ı8å—ó”â1
-š
-java:S1120C"xMake this line start after 8 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(Ñ£±Ôúÿÿÿÿ8å—ó”â1
-š
-java:S1120I"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ8å—ó”â1
-B
-java:S1166 "%Either log or rethrow this exception.(‹±ÃÆ8é—ó”â1
-B
-java:S1166""%Either log or rethrow this exception.(ï­£Ä8é—ó”â1
-B
-java:S1166H"%Either log or rethrow this exception.(ï­£Ä8é—ó”â1
-;	java:S113"'Add a new line at the end of this file.8ë—ó”â1
-^
-java:S1106"AMove this left curly brace to the beginning of next line of code.(„Òç8í—ó”â1
-]
-java:S1106"AMove this left curly brace to the beginning of next line of code.(åÙÀw8í—ó”â1
-^
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ÙË¢ƒ8í—ó”â1
-c
-java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8í—ó”â1
-c
-java:S1106"AMove this left curly brace to the beginning of next line of code.(Ç½Œâıÿÿÿÿ8í—ó”â1
-^
-java:S1106 "AMove this left curly brace to the beginning of next line of code.(‹±ÃÆ8í—ó”â1
-^
-java:S1106""AMove this left curly brace to the beginning of next line of code.(ï­£Ä8í—ó”â1
-^
-java:S1106'"AMove this left curly brace to the beginning of next line of code.(ºª¡‘8í—ó”â1
-c
-java:S11062"AMove this left curly brace to the beginning of next line of code.(·Õƒğşÿÿÿÿ8í—ó”â1
-c
-java:S11067"AMove this left curly brace to the beginning of next line of code.(»‹Å£ÿÿÿÿÿ8í—ó”â1
-c
-java:S1106;"AMove this left curly brace to the beginning of next line of code.(öŒêÂşÿÿÿÿ8í—ó”â1
-c
-java:S1106@"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8í—ó”â1
-]
-java:S1106B"AMove this left curly brace to the beginning of next line of code.(ğûè=8î—ó”â1
-^
-java:S1106H"AMove this left curly brace to the beginning of next line of code.(ï­£Ä8î—ó”â1
-;
-java:S1451"&Add or update the header of this file.8ï—ó”â1
-J
-java:S2208".Explicitly import the specific classes needed.(¬›ãD8ñ—ó”â1
-L
-java:S6212"/Declare this local variable with "var" instead.(ÄàÕõ8û—ó”â1
-w	java:S125"<This block of commented-out lines of code should be removed.(Èú’’J$e1ba143b-8541-4b4b-9877-a05977415977
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦8·ï£õè1J$6d710e90-31b6-4dfe-9181-391ad4a389f6
+
+java:S2095A"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ù»ı8¸ï£õè1J$7454697a-bea0-4d2a-bfec-f1ac8f8f5335
+w	java:S125"<This block of commented-out lines of code should be removed.(Èú’’J$b1a1fea8-654f-48e1-b0d8-8bd7e6805ccd
 €
-java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£ÄJ$730975bc-b52a-4b82-805f-70119e9df34c
-O
-java:S1108 "2Move this "catch" keyword to a new dedicated line.(‹±ÃÆ8ÿ—ó”â1
-O
-java:S1108""2Move this "catch" keyword to a new dedicated line.(ï­£Ä8ÿ—ó”â1
-O
-java:S1943"2Remove this use of constructor "FileReader(File)".(ãÈˆ¦8€˜ó”â1
-p	java:S122)"TAt most one statement is allowed per line, but 2 statements were found on this line.(¡ø¢ô8„˜ó”â1
-\
-java:S1941("?Move the declaration of "item" closer to the code that uses it.(úû¡Ñ8†˜ó”â1
-c
-java:S1132)"FMove the "" string literal on the left side of this string comparison.(¡ø¢ô8‡˜ó”â1
-L
-java:S6212*"/Declare this local variable with "var" instead.(ŸØÓê8‡˜ó”â1
-Q
-java:S6212+"/Declare this local variable with "var" instead.(—è‡Üÿÿÿÿÿ8ˆ˜ó”â1
-L
-java:S6212-"/Declare this local variable with "var" instead.(’†¥8‰˜ó”â1
-L
-java:S6212="/Declare this local variable with "var" instead.(ÄàÕõ8‹˜ó”â1
-w	java:S125<"<This block of commented-out lines of code should be removed.(Èú’’J$e7000fe6-fe2e-47be-8fb1-2c0cf8a4bd4f
-O
-java:S1108H"2Move this "catch" keyword to a new dedicated line.(ï­£Ä8Œ˜ó”â1
-O
-java:S1943A"2Remove this use of constructor "FileWriter(File)".(ù»ı8Œ˜ó”â1
-k	java:S106C"+Replace this use of System.out by a logger.(Ñ£±ÔúÿÿÿÿJ$593fc0bb-cd25-4084-a3cb-b9685b79340a
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(ï­£ÄJ$65df1d01-848f-49cf-ba8f-348913574838
+w	java:S125<"<This block of commented-out lines of code should be removed.(Èú’’J$8e1d951b-1a0f-4fbd-b27a-7a381e248fbd
+k	java:S106C"+Replace this use of System.out by a logger.(Ñ£±ÔúÿÿÿÿJ$8e4227e0-afc4-4ceb-9c5a-35baf0b41490
