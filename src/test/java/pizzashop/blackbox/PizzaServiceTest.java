@@ -2,8 +2,6 @@ package pizzashop.blackbox;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 import pizzashop.model.PaymentType;
 import pizzashop.repository.MenuRepository;
@@ -35,8 +33,6 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(1)
-    @DisplayName("Test for adding a valid payment (EC)")
     void addValidPaymentTest() {
         assertEquals(0, service.getPayments().size());
 
@@ -46,7 +42,6 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(2)
     void addInvalidPaymentNullTypeTest() {
         assertEquals(0, service.getPayments().size());
         service.addPayment(4, null, 20.99);
@@ -54,7 +49,6 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(3)
     void addValidPaymentBVA1Test() {
         assertEquals(0, service.getPayments().size());
         service.addPayment(1, PaymentType.CARD, 23.99);
@@ -62,7 +56,6 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(4)
     void addInvalidPaymentBVA9Test() {
         assertEquals(0, service.getPayments().size());
         service.addPayment(5, PaymentType.CASH, -1);
