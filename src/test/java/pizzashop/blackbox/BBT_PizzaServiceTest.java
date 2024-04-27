@@ -12,7 +12,7 @@ import pizzashop.service.PizzaService;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class PizzaServiceTest {
+class BBT_PizzaServiceTest {
 
     private PizzaService service;
 
